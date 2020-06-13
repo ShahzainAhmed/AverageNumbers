@@ -1,3 +1,4 @@
+# Taking input from the user for the list and numbers.
 n=int(input("Enter the number of elements to be inserted: "))
 a=[]
 for i in range(0,n):

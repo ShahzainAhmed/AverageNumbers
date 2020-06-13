@@ -9,4 +9,6 @@ for i in range(0,n):
 
 # Average formula.
 avg=sum(a)/n
+
+# Printing the average now.
 print("Average of elements in the list",round(avg,2))

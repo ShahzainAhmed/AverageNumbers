@@ -8,4 +8,4 @@
 - Take the number of elements to be stored in the list as input.
 - Use a for loop to input elements into the list.
 - Calculate the total sum of elements in the list.
-- Divide the sum by
+- Divide the sum by total number of elements

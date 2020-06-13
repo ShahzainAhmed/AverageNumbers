@@ -7,4 +7,4 @@
 ## Problem Solution: 
 - Take the number of elements to be stored in the list as input.
 - Use a for loop to input elements into the list.
-- Calculate the 
+- Calculate the total sum 

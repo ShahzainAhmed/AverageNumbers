@@ -5,4 +5,4 @@
 ### The program takes the elements of the list one by one and displays the average of the elements of the list.
 
 ## Problem Solution: 
-- Take the number of elements
+- Take the number of elements to be stored in the list as input.

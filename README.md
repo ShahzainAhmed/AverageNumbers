@@ -12,3 +12,4 @@
 - Exit.
 
 ## Program Explanation:
+- User must first enter the number of elements which is stored in the variable n.

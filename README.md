@@ -1,2 +1,2 @@
 # Average Numbers:
-calculate the average of numbers in a given list.
+## This is a Python Program to Calculate the Average of Numbers in a Given List.

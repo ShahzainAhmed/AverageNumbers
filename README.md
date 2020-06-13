@@ -19,3 +19,4 @@
 - Now the value of i is incremented to 2.
 - The new value entered by the user for the next loop iteration is now stored in elem which is appended to the list.
 - The loop runs till the value of i reaches n.
+- sum(a) gives the total sum of all the elements in the list and dividing it by the total number of elements gives the average of elements in the list.

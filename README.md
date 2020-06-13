@@ -17,3 +17,4 @@
 - Then, the element that the user enters is stored in the variable element.
 - a.append(elem) appends the element to the list.
 - Now the value of i is incremented to 2.
+- The new value entered by the user for the next loop iteration is now stored in elem which is appended to the list.

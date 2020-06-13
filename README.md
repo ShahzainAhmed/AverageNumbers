@@ -15,3 +15,4 @@
 - User must first enter the number of elements which is stored in the variable n.
 - The value of I ranges from 0 to the number of elements and is incremented each time after the body of the loop is executed.
 - Then, the element that the user enters is stored in the variable element.
+- a.append(elem) appends the element to the list.

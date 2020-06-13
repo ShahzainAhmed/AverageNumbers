@@ -10,3 +10,5 @@
 - Calculate the total sum of elements in the list.
 - Divide the sum by total number of elements in the list.
 - Exit.
+
+## Program Explanation:
